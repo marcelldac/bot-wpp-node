@@ -1,1 +1,7 @@
 node_modules
+dist
+
+#wpp web lib
+
+.wwebjs_auth
+.wwebjs_cache
